@@ -56,7 +56,7 @@ function EnergySection() {
           <div className="relative rounded-2xl overflow-hidden border border-zinc-800 shadow-2xl max-w-md w-full mx-auto">
             {/* eslint-disable-next-line @next/next/no-img-element */}
             <img
-              src="/portfolio/energy-meme.jpeg"
+              src="/personal-portfolio/energy-meme.jpeg"
               alt="Energy meme"
               className="w-full h-auto object-contain"
             />
