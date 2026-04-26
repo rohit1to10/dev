@@ -1,0 +1,66 @@
+CONTACT
+KAGITHA ROHITH
+FULL STACK DEVELOPER
++91-8309440714 - moblie number
+rohitkagitha@gmail.com
+https://www.linkedin.com/in/kagitha-
+rohit-85a0b81a1
+
+these are my contact details. I am a full stack developer with experience in various technologies. I am passionate about coding and always eager to learn new things. If you have any questions or want to connect, feel free to reach out to me through the provided contact information.
+
+
+Backend Engineer with 4+ years of experience building scalable, low-latency distributed systems using Java and Spring Boot. Proven
+track record of owning critical services and delivering measurable impact, including 15–20% latency reduction and 12–15% revenue
+growth. Strong expertise in event-driven architecture, real-time pricing systems, and microservices at scale.
+
+this should be in the skills sections
+
+EXPERIENCE
+SE-2 | Zoomcar | Developing and leading the pricing tech of the Zoomcar and Geo-Service Aug 2024
+Pluto Pricing Service
+Owned and scaled the Pluto Pricing Service, a real-time pricing engine impacting booking conversion and host earnings
+Designed event-driven architecture using Apache Kafka, reducing end-to-end latency by 15–20%
+Built a real-time pricing system integrating demand forecasting (ARIMA) and search signals for dynamic price computation
+Led rollout of pricing features (Commute Pricing, Limited KM Packages), driving 12–15% revenue uplift
+Improved host pricing recommendation logic, increasing host retention by ~30%
+Implemented Redis-based caching, significantly reducing response latency under high request volume
+Deployed microservices on Kubernetes, ensuring scalability, fault tolerance, and high availability
+Enabled feature experimentation (GrowthBook) for A/B testing without redeployments
+Collaborated cross-functionally with Data Science and Product teams to productionize pricing models
+Geo Service Contributions
+Designed and scaled a Geo Service handling distance computation and geospatial queries across pricing and booking workflows
+Processed 10K+ daily geo requests with sub-100ms latency using optimized caching and request batching
+Integrated Google Distance Matrix APIs with intelligent fallback and retry strategies to ensure high availability
+Implemented geofencing system for city hotspots, enabling location-based pricing and delivery workflows
+Reduced external API costs by 30–40% through Redis caching and request deduplication
+Standardized geo computations across services, improving consistency in pricing and trip calculations
+Built fault-tolerant service layer with timeout handling and graceful degradation for external API failures
+System Design Contributions
+Designed geo + pricing service interaction layer for real-time fare computation
+Built low-latency geo lookup system with caching, reducing dependency on external APIs
+Ensured high availability and fault tolerance for geo-dependent services
+SDE | Brane Enterprises | Developing a no code platform with pure java based application 2023-2024
+Designed and built backend systems for a no-code workflow platform, enabling 100+ internal users to create and deploy workflows
+without engineering support
+Developed scalable REST APIs using Java + Spring Boot, supporting dynamic workflow execution and configuration
+Improved API response times by 30–40% through query optimization, indexing, and efficient data access patterns
+Designed config-driven architecture, enabling flexible workflow definitions without code changes
+Integrated backend services with frontend systems to enable real-time workflow creation and execution
+Collaborated with product and frontend teams to deliver highly customizable workflow capabilities
+System Design Contributions
+Designed a modular, extensible service architecture to support dynamically configurable workflows
+Built low-latency API layer with optimized DB queries and caching strategies
+Implemented config-driven execution engine, reducing deployment dependency for feature changes
+Ensured scalability and maintainability by decoupling workflow logic from core services
+Full Stack Dev | Accolite Digital | Development Of Org Wide Web Portal Developed internal platforms used by multiple business teams, streamlining operations and reducing manual workflows
+Built backend services handling sensitive financial and employee data, ensuring secure and reliable data processing
+Designed and optimized PostgreSQL schemas and DAO layers, improving query efficiency and maintainability
+Integrated external data sources (Google Sheets APIs), enabling automated data ingestion pipelines
+Built frontend components using Angular and React Native to support internal operational workflows
+Contributed to end-to-end feature development across backend, database, and UI layers
+System Design Contributions
+Designed data ingestion pipelines integrating external APIs into structured storage systems
+Implemented role-based access control (RBAC) for secure handling of sensitive data
+Improved system reliability through structured data validation and error handling mechanisms
+Designed modular backend components for easier feature expansion and maintenance
+

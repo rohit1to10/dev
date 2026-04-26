@@ -1,0 +1,172 @@
+Refined Portfolio Structure (based on your plan)
+
+1. Hero (Intro)
+
+Already defined. Keep it minimal and high-impact.
+
+⸻
+
+2. Visual / Personal Section (Photo + Value)
+
+A photo alone is weak unless it communicates something.
+
+Include:
+
+* Professional photo
+* 1–2 lines that express how you work
+
+Example direction:
+
+* “I build low-latency systems that directly impact business metrics.”
+* “Focused on scalable backend systems and real-time decision engines.”
+
+Avoid vague lines like “passionate developer”.
+
+⸻
+
+3. Timeline (Education + Experience)
+
+Combining these is fine, but structure it properly.
+
+Suggested order:
+
+* Experience first (more important now)
+* Education at the end
+
+Format:
+
+* Role / Company / Duration
+* 2–3 strong impact bullets only
+
+⸻
+
+Key entries from your resume:
+
+Zoomcar – SE-2
+
+* Built real-time pricing engine (Pluto)
+* Reduced latency by 15–20%
+* Increased revenue by 12–15%
+* Improved host retention by ~30%
+
+Brane Enterprises – SDE
+
+* Built no-code workflow platform
+* Enabled 100+ users to create workflows
+* Designed config-driven backend system
+
+Accolite Digital – Full Stack Developer
+
+* Built org-wide internal platform
+* Improved API performance by 30–40%
+* Worked across backend + frontend
+
+Education
+
+* Indian Institute of Technology Indore
+
+⸻
+
+4. Projects Section (Most Important Section)
+
+This is where you should spend most effort.
+
+You selected the right 3:
+
+* Zoomcar Pricing System
+* Brane No-Code Platform
+* Accolite Project
+
+⸻
+
+Structure each project like this:
+
+1. Pricing System (Highlight Project)
+
+Title: Pluto Pricing Engine
+Company: Zoomcar
+
+* Problem: Dynamic pricing at scale
+* What you built:
+    * Real-time pricing engine
+    * Kafka-based event-driven system
+    * Redis caching for performance
+* Impact:
+    * 12–15% revenue increase
+    * 15–20% latency reduction
+* Tech: Java, Spring Boot, Kafka, Redis
+
+⸻
+
+2. No-Code Platform
+
+Company: Brane Enterprises
+
+* Problem: Non-tech teams needed workflows
+* What you built:
+    * Config-driven execution engine
+    * Dynamic REST APIs
+* Impact:
+    * Enabled 100+ internal users
+* Tech: Java, Spring Boot, Microservices
+
+⸻
+
+3. Accolite Project
+
+Company: Accolite Digital
+
+* Internal workflow platform
+* Integrated external APIs
+* Improved performance by 30–40%
+
+⸻
+
+5. Footer (Contact + Social)
+
+Keep it clean.
+
+Include:
+
+* Email
+* LinkedIn
+* GitHub (add if missing)
+
+Optional:
+
+* Short closing line:
+    * “Open to backend and distributed systems roles”
+
+⸻
+
+What you’re missing (important)
+
+Your current plan skips a Skills section, which is risky.
+
+Even if small, include:
+
+6. Skills (Compact)
+
+* Java, Spring Boot
+* Kafka, Event-driven systems
+* PostgreSQL, MongoDB
+* Redis, Caching
+* Kubernetes, GCP
+
+⸻
+
+Final Structure (clean version)
+
+1. Hero
+2. Photo + Personal Statement
+3. Experience Timeline
+4. Projects (core section)
+5. Skills (compact)
+6. Footer
+
+⸻
+
+Key correction
+
+Do not treat “projects” as separate from experience.
+Your strongest projects come from your jobs, so present them as case studies, not side projects.
