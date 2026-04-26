@@ -2,7 +2,6 @@
 
 import dynamic from 'next/dynamic'
 import { FlipLinks } from '@/components/ui/flip-links'
-import Image from 'next/image'
 import { useEffect, useRef, useState } from 'react'
 import { useRouter } from 'next/navigation'
 import { motion } from 'framer-motion'
@@ -55,14 +54,11 @@ function EnergySection() {
 
         <div className="flex justify-center">
           <div className="relative rounded-2xl overflow-hidden border border-zinc-800 shadow-2xl max-w-md w-full mx-auto">
-            <Image
-              src="/energy-meme.jpeg"
+            {/* eslint-disable-next-line @next/next/no-img-element */}
+            <img
+              src="/portfolio/energy-meme.jpeg"
               alt="Energy meme"
-              width={800}
-              height={800}
               className="w-full h-auto object-contain"
-              priority
-              unoptimized
             />
           </div>
         </div>
