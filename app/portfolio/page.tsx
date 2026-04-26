@@ -59,6 +59,8 @@ function EnergySection() {
               src="/dev/energy-meme.jpeg"
               alt="Energy meme"
               className="w-full h-auto object-contain"
+              loading="eager"
+              fetchPriority="high"
             />
           </div>
         </div>

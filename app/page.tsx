@@ -40,6 +40,13 @@ export default function LandingPage() {
     setTimeout(() => router.push('/portfolio'), 700)
   }, [router])
 
+  // Prefetch portfolio page JS + preload heavy assets while preloader plays
+  useEffect(() => {
+    router.prefetch('/portfolio')
+    const img = new window.Image()
+    img.src = '/dev/energy-meme.jpeg'
+  }, [router])
+
   useEffect(() => {
     if (!preloaderDone) return
     const onWheel = (e: WheelEvent) => { if (e.deltaY > 20) navigateForward() }
