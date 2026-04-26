@@ -486,9 +486,13 @@ export default function PortfolioPage() {
   const [visible, setVisible] = useState(false)
 
   useEffect(() => {
+    if (!sessionStorage.getItem('landingVisited')) {
+      router.replace('/')
+      return
+    }
     const id = requestAnimationFrame(() => setVisible(true))
     return () => cancelAnimationFrame(id)
-  }, [])
+  }, [router])
 
   // Scroll up at the very top → back to landing
   useEffect(() => {

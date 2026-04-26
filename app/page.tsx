@@ -47,6 +47,11 @@ export default function LandingPage() {
     img.src = '/dev/energy-meme.jpeg'
   }, [router])
 
+  // Mark landing as visited so portfolio page knows it was properly entered
+  useEffect(() => {
+    if (preloaderDone) sessionStorage.setItem('landingVisited', '1')
+  }, [preloaderDone])
+
   useEffect(() => {
     if (!preloaderDone) return
     const onWheel = (e: WheelEvent) => { if (e.deltaY > 20) navigateForward() }
