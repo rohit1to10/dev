@@ -12,7 +12,7 @@ const spaceGrotesk = Space_Grotesk({
 export const metadata: Metadata = {
   title: "Rohit Kagitha — Backend Engineer",
   description: "Backend engineer building low-latency systems and real-time decision engines.",
-  icons: { icon: "/personal-portfolio/favicon.svg" },
+  icons: { icon: "/dev/favicon.svg" },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
